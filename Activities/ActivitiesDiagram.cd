@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="activities">
+    <Position X="6.677" Y="1.386" Height="0.419" Width="1.149" />
+  </Comment>
+  <Class Name="Clash_Of_Blocks.Droid.AllRecords">
+    <Position X="16" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAgAAQAAA=</HashCode>
+      <FileName>Activities\AllRecords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clash_Of_Blocks.Droid.AllSkins">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAACQAAAAAAIIAgAAAAAA=</HashCode>
+      <FileName>Activities\AllSkins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clash_Of_Blocks.Droid.FinishedActivity">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAADAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Activities\FinishedActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clash_Of_Blocks.Droid.Home_Activity">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAACAAAAAAAACgKADgAEAAAAIgAAIAAA=</HashCode>
+      <FileName>Activities\Home_Activity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clash_Of_Blocks.Droid.LevelView">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAASEAAAABAAAAgAAAAAA=</HashCode>
+      <FileName>Activities\LevelView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clash_Of_Blocks.Droid.MainActivity">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAgABACEA=</HashCode>
+      <FileName>Activities\MainActivity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clash_Of_Blocks.Droid.RecordsForLvl">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAABASAAAAABIAAAgCACAIE=</HashCode>
+      <FileName>Activities\RecordsForLvl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clash_Of_Blocks.Droid.Register_Activity">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQQAAAAQAAAAAAACAIAAAACAAAAAAAQAAgAAAAAE=</HashCode>
+      <FileName>Activities\Register_Activity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Android.App.Activity" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Android.App.Activity.InterfaceConsts" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Xamarin.Forms.Platform.Android.FormsAppCompatActivity" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Clash_Of_Blocks.Droid.Game_Activity">
+    <Position X="17.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAIAgAQBAAAAAAAAAAQgAIDAAgQEIBAJAgBgAAwA=</HashCode>
+      <FileName>Activities\Game_Activity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

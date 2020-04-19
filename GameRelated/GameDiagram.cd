@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="    game classes &#xD;&#xA;">
+    <Position X="15.521" Y="5.861" Height="0.557" Width="1.245" />
+  </Comment>
+  <Class Name="Clash_Of_Blocks.Droid.Cell">
+    <Position X="13.25" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Clash_Of_Blocks.Droid.Cell.Type" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameRelated\Cell.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAACAABAAAQgAARIEAAACAACEAAgCAAABAAGCIAEA=</HashCode>
+      <FileName>GameRelated\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Clash_Of_Blocks.Droid.Shape">
+    <Position X="15.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAACAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>GameRelated\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="clash_of_blocks.GameBoard">
+    <Position X="18.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NFBABCAQAAhAAEgAhAhgAAAwIAQAgEAIZBAAAEDAiwA=</HashCode>
+      <FileName>GameRelated\GameBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Android.Views.View" Collapsed="true">
+    <Position X="15.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
